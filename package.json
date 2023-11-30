@@ -2,7 +2,7 @@
   "name": "build",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mybabb.github.io/SIGO-Demo",   
+  "homepage": "https://mybabb.github.io/SIGO-Demo_gh",   
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
