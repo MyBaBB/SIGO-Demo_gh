@@ -1,13 +1,17 @@
-
+ 
+ 
+ 
 import './App.css'
-import Test from './assets/Test.jsx'
 
 function App() {
-   
+  
 
   return (
     <>
-     <Test />
+      
+      <p className="">
+        Click on the Vite and React logos to learn more
+      </p>
     </>
   )
 }
