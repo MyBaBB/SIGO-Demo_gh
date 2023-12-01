@@ -1,7 +1,7 @@
  
  
  
-import './App.css'
+import './src/index.css'
 
 function App() {
   
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       
-      <p className="">
+      <p>
         Click on the Vite and React logos to learn more
       </p>
     </>
