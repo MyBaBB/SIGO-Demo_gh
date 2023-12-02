@@ -1,3 +1,47 @@
+ 
+
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+ 
+
+@font-face {
+  font-family: 'Creepster';
+  src: url(../GoogleFonts/Creepster/Creepster-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Itim';
+  src: url(../GoogleFonts/Itim/Itim-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Kranky';
+  src: url(../GoogleFonts/Kranky/Kranky-Regular.ttf);   
+}
+
+@font-face {
+  font-family: 'PT_Serif';
+  src: url(../GoogleFonts/PT_Serif/PTSerif-Bold.ttf);
+}
+@font-face {
+  font-family: 'Rye';
+  src: url(../GoogleFonts/Rye/Rye-Regular.ttf);
+}
+.creepsterText {
+  font-family: 'Creepster';
+  }
+
+
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
