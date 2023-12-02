@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -17,7 +18,9 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <p className='creepsterText text-4xl text-varLIGHTBLUEFEATHER '>Brett's First Logical Git hub Deploy for Vite React js.</p>
+      <div className="card">
+        Brett&apos;s First Logical Git hub Deploy for Vite React js.
+      </div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
