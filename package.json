@@ -1,6 +1,6 @@
 {
   "name": "sigo-demo-gh",
-  "homepage": "https://mybabb.github.io/SIGO-Demo/",
+  "homepage": "https://mybabb.github.io/SIGO-gh/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -28,3 +28,4 @@
     "vite": "^5.0.0"
   }
 }
+ 
